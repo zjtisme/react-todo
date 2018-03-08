@@ -22,7 +22,6 @@
     "expect": "^1.14.0",
     "express": "^4.16.2",
     "firebase": "^3.0.2",
-    "foundation-sites": "^6.4.3",
     "jquery": "^2.2.1",
     "moment": "^2.21.0",
     "node-sass": "^3.4.2",
@@ -41,6 +40,7 @@
     "webpack": "^1.12.13"
   },
   "devDependencies": {
+    "foundation-sites": "^6.4.3",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^0.2.2",
     "karma-mocha": "^0.2.2",
