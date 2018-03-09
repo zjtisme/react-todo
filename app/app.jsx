@@ -21,3 +21,19 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('app')
 );
+
+// APP
+// apiKey: "AIzaSyBQoG9gV8ajG4Vx_33-Y8ux0ox_ipnl-kY",
+//     authDomain: "todo-app-c142f.firebaseapp.com",
+//     databaseURL: "https://todo-app-c142f.firebaseio.com",
+//     projectId: "todo-app-c142f",
+//     storageBucket: "",
+//     messagingSenderId: "550245144360"
+
+// TEST
+// apiKey: "AIzaSyCu1zCdyfZF-Zy_Y7X2VPNFaymWQYQDywk",
+//     authDomain: "todo-app-test-15801.firebaseapp.com",
+//     databaseURL: "https://todo-app-test-15801.firebaseio.com",
+//     projectId: "todo-app-test-15801",
+//     storageBucket: "todo-app-test-15801.appspot.com",
+//     messagingSenderId: "396492320938"
