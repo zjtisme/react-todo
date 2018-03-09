@@ -97,7 +97,7 @@ export var startLogin = () => {
       console.log('Unable to auth', error);
     });
   };
-}
+};
 
 export var startLogout = () => {
   return (dispatch, getState) => {
@@ -105,4 +105,17 @@ export var startLogout = () => {
       console.log('logged out!');
     });
   };
-}
+};
+
+export var login = (uid) => {
+  return {
+    type: 'LOGIN',
+    uid
+  };
+};
+
+export var logout = () => {
+  return {
+    type: 'LOGOUT'
+  };
+};
